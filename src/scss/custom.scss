@@ -1,0 +1,12 @@
+// Required
+@import "node_modules/bootstrap/scss/functions";
+@import "node_modules/bootstrap/scss/variables";
+@import "node_modules/bootstrap/scss/mixins";
+
+@import "variables";
+@import "functions";
+
+/* import bootstrap to set changes */
+@import "~bootstrap/scss/bootstrap";
+
+@import "bootstrap/components";

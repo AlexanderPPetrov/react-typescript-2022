@@ -1,0 +1,22 @@
+$body-bg: #f0f0f0;
+$body-color: #111;
+
+$theme-colors: (
+  "primary": #0bd786,
+  "danger": #ff4136,
+  "accent": #ff521f,
+);
+
+//Components
+
+//Card
+$card-bg: #fafefb;
+$card-border-radius: .5rem;
+$card-inner-border-radius: .5rem;
+
+//Buttons
+$btn-border-radius: 5rem;
+$btn-padding-x: 1.5rem;
+$btn-font-weight: $font-weight-bold;
+$card-spacer-x: 1.5rem;
+$card-spacer-y: 1.5rem;
